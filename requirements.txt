@@ -1,0 +1,2 @@
+npm install
+npm run dev (to start coding and see changes live)
